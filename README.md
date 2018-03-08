@@ -55,3 +55,11 @@
 ##### 33. Years in Current Role          
 ##### 34. Years since Last Promotion    
 ##### 35. Years with Current Manager        
+
+
+### Step 3 – Data Exploration 
+
+#### Stop and Think about the Data:
+#### •	What features affect our target variable the most (Attrition)?
+#### •	What features have strong correlations with each other?
+#### •	Can we do a more in depth examination of these features?
