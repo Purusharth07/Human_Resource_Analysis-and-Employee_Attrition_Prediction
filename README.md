@@ -7,3 +7,10 @@
 ### Step 1 -Define the Goal
 
 #### The following questions are among the ones every Company suffering with high Employee Attrition Rate would like to be answered:
+
+   #####       1. What proportion of our staff are leaving?
+   #####       2. Where is it occurring?
+   #####       3. How does Age and Length of Service affect termination?
+   #####       4. What, if anything, else contributes to it?
+   #####       5. Can we predict future terminations?
+   #####       6. If so, how well can we predict?
