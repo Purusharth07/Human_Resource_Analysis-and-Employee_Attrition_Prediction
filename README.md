@@ -4,7 +4,7 @@
 
 #### Attrition in business can mean the reduction in staff and employees in a company through normal means, such as retirement and resignation, the loss of customers or clients to old age or growing out of the company's target demographic.
 
-### Step 1 -Define the Goal
+## Step 1 -Define the Goal
 
 #### The following questions are among the ones every Company suffering with high Employee Attrition Rate would like to be answered:
 
@@ -16,7 +16,7 @@
    #####       6. If so, how well can we predict?
   
   
-### Step 2 – Collect and Manage the Data
+## Step 2 – Collect and Manage the Data
 
 #### The information contained in the readily available dataset is as follows: 
 #### There are 35 different Attributes, and 1470 instances.
@@ -49,3 +49,19 @@
 #### •	What features affect our target variable the most (Attrition)?
 #### •	What features have strong correlations with each other?
 #### •	Can we do a more in depth examination of these features?
+
+### Correlation Matrix and Heat Map
+#### Moderate/Highly Positively Correlated Features
+
+
+#### Moderate/Highly Negatively Correlated Features
+
+
+#### Summary:
+From the heatmap, there is strong positive(+) correlation between Total working Years, Job Level, Monthly Income, Years with Current Manager, and Years in Current Role. Which could mean that the employees who have worked for more number of Total Years and are at higher Job Level are having high Monthly Income.
+
+For the negative(-) relationships, Attrition and job level + total working years are correlated. I'm assuming that people tend to leave a company more when they are not been promoted and hence are working in current role for larger number of time as well as people at high job level at more number of total working years are expected to leave the company.
+
+### Statistical Test for Correlation
+#### One-Sample T-Test (Measuring Satisfaction Level):
+A one-sample t-test checks whether a sample mean differs from the population mean. Since total working years has the highest correlation with our dependent variable Attrition, let's test to see whether the average ‘total working years’ of employees that had an Attrition differs from those that had no Attrition.
