@@ -20,24 +20,26 @@
 
 #### The information contained in the readily available dataset is as follows: 
 #### There are 35 different Attributes, and 1470 instances.
-##### 1.	Age                                    ####  19. Monthly Income   
-##### 2.	Attrition                                    20. Monthly Rate  
-##### 3.	Business Travel                              21. Number of Companies Worked 
-##### 4.	Daily Rate                                   22. Over18   
-##### 5.	Department                                   23. Over Time    
-##### 6.	Distance from Home                           24. Percent Salary Hike 
-##### 7.	Education                                    25. Performance Rating    
-##### 8.	Education Field                              26. Relationship Satisfaction   
-##### 9.	Employee Count                               27. Standard Hours 
-##### 10. Employee Number                             28. Stock Option Level  
-##### 11. Environment Satisfaction                    29. Total Working Years  
-##### 12. Gender                                      30. Training Times Last Year
-##### 13. Hourly Rate                                 31. Work Life Balance  
-##### 14. Job Involvement                             32. Years at Company  
-##### 15. Job Level                                   33. Years in Current Role  
-##### 16. Job Role                                    34. Years since Last Promotion
-##### 17. Job Satisfaction                            35. Years with Current Manager 
-##### 18. Marital Status               
+| Attributes | Attributes |
+| ---------- | ---------- |
+| 1. Age     | 19. Monthly Income |  
+| 2.	Attrition | 20. Monthly Rate | 
+| 3.	Business Travel | 21. Number of Companies Worked |
+| 4.	Daily Rate      | 22. Over18   
+| 5.	Department      | 23. Over Time    
+| 6.	Distance from Home |  24. Percent Salary Hike 
+| 7.	Education          |  25. Performance Rating    
+| 8.	Education Field    |  26. Relationship Satisfaction   
+| 9.	Employee Count     |  27. Standard Hours 
+| 10. Employee Number    |  28. Stock Option Level  
+| 11. Environment Satisfaction |  29. Total Working Years  
+| 12. Gender             |  30. Training Times Last Year
+| 13. Hourly Rate        |  31. Work Life Balance  
+| 14. Job Involvement    |  32. Years at Company  
+| 15. Job Level          |  33. Years in Current Role  
+| 16. Job Role           |  34. Years since Last Promotion
+| 17. Job Satisfaction   |  35. Years with Current Manager 
+| 18. Marital Status     |          
  
 
 
