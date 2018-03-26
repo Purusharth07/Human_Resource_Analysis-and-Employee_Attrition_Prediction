@@ -60,7 +60,7 @@
 #### Summary:
 From the heatmap, there is strong positive(+) correlation between Total working Years, Job Level, Monthly Income, Years with Current Manager, and Years in Current Role. Which could mean that the employees who have worked for more number of Total Years and are at higher Job Level are having high Monthly Income.
 
-For the negative(-) relationships, Attrition and job level + total working years are correlated. I'm assuming that people tend to leave a company more when they are not been promoted and hence are working in current role for larger number of time as well as people at high job level at more number of total working years are expected to leave the company.
+For the negative(-) relationships, Attrition and job level + total working years are correlated. I'm assuming that people tend to leave a company more when they are not been promoted and hence are working in current role for longer period of time.Moreover, people at higher job level and with more number of total working years are expected to leave the company.
 
 ### Statistical Test for Correlation
 #### One-Sample T-Test (Measuring Satisfaction Level):
