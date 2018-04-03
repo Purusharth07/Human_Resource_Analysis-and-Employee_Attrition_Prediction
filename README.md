@@ -62,6 +62,3 @@ From the heatmap, there is strong positive(+) correlation between Total working 
 
 For the negative(-) relationships, Attrition and job level + total working years are correlated. I'm assuming that people tend to leave a company more when they are not been promoted and hence are working in current role for longer period of time.Moreover, people at higher job level and with more number of total working years are expected to leave the company.
 
-### Statistical Test for Correlation
-#### One-Sample T-Test (Measuring Satisfaction Level):
-A one-sample t-test checks whether a sample mean differs from the population mean. Since total working years has the highest correlation with our dependent variable Attrition, let's test to see whether the average ‘total working years’ of employees that had an Attrition differs from those that had no Attrition.
